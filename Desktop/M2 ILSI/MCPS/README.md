@@ -74,9 +74,6 @@ python <simulation>.py --patient adolescent#001 --faults
 
 Supervisors: Dr. Fateh Latreche, Ms. Rayene Chabani.
 
-## My contribution
-
-<!-- Complete in 3-5 lines: which modules you wrote, which experiments you ran, which parts of the thesis you wrote -->
 
 ## References
 
